@@ -170,4 +170,10 @@ python -m src.train
 Python, scikit-learn, imbalanced-learn, XGBoost, MLflow, DagsHub, pandas, matplotlib, seaborn, pytest
 
 ## Status
-Modeling phase complete. Next: model artifact + demo app, then Medium writeup.
+Complete. Live demo: https://huggingface.co/spaces/muhammed-keita-ml/credit-card-fraud-detector
+
+## Links
+- **GitHub**: https://github.com/muhammed-keita-ml/project-06-fraud-detection-pipeline
+- **Hugging Face Space**: https://huggingface.co/spaces/muhammed-keita-ml/credit-card-fraud-detector
+- **DagsHub / MLflow**: https://dagshub.com/muhammed-keita-ml/project-06-fraud-detection-pipeline
+- **Medium**: *(coming soon)*
