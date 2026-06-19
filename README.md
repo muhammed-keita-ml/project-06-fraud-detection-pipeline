@@ -176,4 +176,4 @@ Complete. Live demo: https://huggingface.co/spaces/muhammed-keita-ml/credit-card
 - **GitHub**: https://github.com/muhammed-keita-ml/project-06-fraud-detection-pipeline
 - **Hugging Face Space**: https://huggingface.co/spaces/muhammed-keita-ml/credit-card-fraud-detector
 - **DagsHub / MLflow**: https://dagshub.com/muhammed-keita-ml/project-06-fraud-detection-pipeline
-- **Medium**: *(coming soon)*
+- **Medium**: https://medium.com/@mkeitaone/when-good-enough-metrics-hide-a-broken-model-building-a-credit-card-fraud-detection-pipeline-2114f3af0b55
