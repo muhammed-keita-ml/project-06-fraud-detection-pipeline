@@ -1,6 +1,6 @@
 # Project 06 - Credit Card Fraud Detection Pipeline
 
-[**Technical Report**](./technical-report.md) — Full methodology, results, and research directions
+[**Technical Report**](./project06_technical_report.md) — Full methodology, results, and research directions
 
 ## Overview
 Production-style ML pipeline for detecting fraudulent credit card
